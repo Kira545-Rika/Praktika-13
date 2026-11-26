@@ -21,7 +21,7 @@ body {
 
   overflow-x: hidden;
 
-  background: #d0f0c0;
+  background: #eebef1;
 
 }
 .container {
@@ -133,28 +133,28 @@ body {
 
 .container .box:nth-child(1):after {
 
-  background: linear-gradient(#00db6a, #00a851)
+  background: linear-gradient(#00ff7f, #99ffcc)
 
 }
 .container .box:nth-child(2):before,
 
 .container .box:nth-child(2):after {
 
-  background: linear-gradient(#66baff, #bbe0ff)
+  background: linear-gradient(#fde910, #fff8a6)
 
 }
 .container .box:nth-child(3):before,
 
 .container .box:nth-child(3):after {
 
-  background: linear-gradient(#ffde33, #ffeb88)
+  background: linear-gradient(#ffa500, #ffda99)
 
 }
 .container .box:nth-child(4):before,
 
 .container .box:nth-child(4):after {
 
-  background: linear-gradient(#f25fe6, #5ff26b)
+  background: linear-gradient(#94b9ff, #0057fa)
 
 }
 .container .box span {
@@ -364,7 +364,7 @@ body {
 }
 .container .box .content a:hover {
 
-  background: #3eb489;
+  background: #eebef1;
 
   border: 1px solid rgba(255, 0, 88, 0.4);
 
