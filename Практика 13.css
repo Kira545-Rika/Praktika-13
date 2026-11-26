@@ -21,7 +21,7 @@ body {
 
   overflow-x: hidden;
 
-  background: #eebef1;
+  background: #26252d;
 
 }
 .container {
@@ -364,7 +364,7 @@ body {
 }
 .container .box .content a:hover {
 
-  background: #eebef1;
+  background: #26252d;
 
   border: 1px solid rgba(255, 0, 88, 0.4);
 
